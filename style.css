@@ -1,0 +1,39 @@
+h1{
+    color:#8338ec;
+    font-style: Verdana,Geneva,Tahoma,sans-serif;
+    text-align: center;
+    text-size-adjust: 32px;
+    text-transform: uppercase;
+}
+img{
+    border-radius: 8px;
+    width: 400px;
+}
+body{
+    background-color: #333533;
+    color:#a2d2ff;
+    font-style:Georgia, 'Times New Roman', Times, serif;
+    text-size-adjust: 16px;
+}
+h2{
+    color: #f15bb5;
+    font-style:'Courier New',Courier,monospace;
+    text-size-adjust: 24px;
+}
+Tit{
+    color:#060;
+    font-weight: bold;
+}
+Im{
+    font-size: 22px;
+    text-decoration: underline;
+}
+Ca{
+    font-size: 22px;
+    text-decoration: underline;
+}
+Wf{
+    color: #fff;
+    background-color: #000;
+    font-style: italic;
+}
